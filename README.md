@@ -61,7 +61,7 @@ Ekran görüntüsü aşağıya eklenmektedir.
 - Ekip içerisinde iletişim sağlıklıydı.
 - Düzenli olarak toplantılar düzenlendi. 
 - Amaca uygun net ve şeffaf kararlar doğrultusunda adımlar izlendi.
-- Görev eklemek, düzenlemek ve silmek, kategorilere ayırmak ve hatırlatıcı eklemek 2. Sprint hedefleri arasındadır. 
+- Görev eklemek, düzenlemek, silmek, kategorilere ayırmak ve hatırlatıcı eklemek 2. Sprint hedefleri arasındadır. 
 
 
 
