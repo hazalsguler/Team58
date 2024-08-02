@@ -75,4 +75,5 @@ Sprint 3
 
 # Sprint 3 
 # Sprint Retrospective 
-- Hedefimize ulaştık 
+- Hedefimize ulaştık
+- ekip içerisinde iletişim sağlıklıydı 
