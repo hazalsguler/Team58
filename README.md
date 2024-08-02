@@ -14,22 +14,14 @@ QUICKTASKS
 Kullanıcıların günlük işlerini kolayca takip edebilmeleri ve hatırlatıcılarda ekleyerek aylık, haftalık ve günlük olarak verimliliklerini artırmasını sağlar. 
 
 # ÜRÜN AÇIKLAMASI 
-QUICKTASKS uygulamamız ile yoğun günlük hayatınızda kolayca görevlerinizi düzenlemenizi ve yönetmeizi sağlar. Her bir görevlerinizi çeşitli kategorilere ayırabilirsiniz. Tamamladığınız görevleri işaretleyerek ilerlemenizi kayıt edebilirsiniz. Her yaşa uygun not uygulamamız ile hayatınızın verimliliğini artırabilirsiniz. 
+QuickTasks uygulamamız ile kullanıcılar notlarını rahatlıkla yazabilir kaydedebilir.
 
 # ÜRÜN ÖZELLİKLERİ 
-- Görev oluşturma, düzenleme ve silme
-- Kategorilere ayırma
-- Hatırlatıcılar ve bildirimler ekleme
-- İlerleme kayıt durumu
-- Tema özelliği
-- Fotoğraf ekleme
-- Güvenlik sistemi
+- Not yazabilir
+- Not kaydedebilir
 
-  # HEDEF KİTLE
-
-- Öğrenciler
-- Profesyoneller
-- Görev takibi yapmak isteyen herkes
+# HEDEF KİTLE
+-Günlük işlerini not almak isteyen herkes
 
 # Product Backlog Url 
 https://miro.com/welcomeonboard/WTluZk5teU94VnBYc0sxRGtxQWp0anZ4MWtaMzFkMENXTWhnRDlta1FRSEVvU2kwSFUxOTZDZUFGWjZSQ1RGb3wzNDU4NzY0NTk0MDkwNzg1ODA1fDI=?share_link_id=40643682971 
@@ -48,12 +40,22 @@ Toplantı ve WhatsApp ScreenShotları
 
 ![image](https://github.com/hazalsguler/Team58/assets/173630456/9d4deece-1b51-4417-b6a5-fb4884ad9d63)
 
+![image5](https://github.com/user-attachments/assets/2d9b7d99-6ab3-4088-9162-c3295b738d01)
+
+![image1](https://github.com/user-attachments/assets/dc06872c-e313-4d95-9bb5-1ec411500418)
+
+![image2](https://github.com/user-attachments/assets/0b35449e-65d8-4548-8053-429a13878260)
+
+![image3](https://github.com/user-attachments/assets/ed48ee52-7c22-4f1e-b154-3dd9f27bd42e)
+
+![image4](https://github.com/user-attachments/assets/84b2e14d-0d0a-4a0d-adeb-0a88dbcf1f39)
+
 # ÜRÜN DURUMU:
 Ekran görüntüsü aşağıya eklenmektedir. 
 
-![image](https://github.com/hazalsguler/Team58/assets/173630456/9c5e1e09-eea5-448b-9462-7db4393da0a8) 
+![product](https://github.com/user-attachments/assets/ee37b33d-089f-4ceb-bdd0-781e24150cc6)
 
-# SPRINT REVİEW 
+# SPRINT REVIEW 
 - Ürünün ilk aşaması olan ana ekranı oluşturulmuştur. Diğer aşamalar bir sonraki sprintlerde devam edilecektir.
 
 
@@ -61,19 +63,9 @@ Ekran görüntüsü aşağıya eklenmektedir.
 - Ekip içerisinde iletişim sağlıklıydı.
 - Düzenli olarak toplantılar düzenlendi. 
 - Amaca uygun net ve şeffaf kararlar doğrultusunda adımlar izlendi.
-- Görev eklemek, düzenlemek, silmek, kategorilere ayırmak ve hatırlatıcı eklemek 2. Sprint hedefleri arasındadır. 
+- Görev eklemek, düzenlemek, silmek, kategorilere ayırmak ve hatırlatıcı eklemek 2. Sprint hedefleri arasındadır.
+- Hedefe ulaşıldı.
 
+# SPRINT BOARD SCREENSHOT
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+![image](https://github.com/user-attachments/assets/e7be29b8-9e49-4c8d-b067-cd99677c8f30)
