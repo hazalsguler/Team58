@@ -40,8 +40,7 @@ Toplantı ve WhatsApp ScreenShotları
 
 ![image](https://github.com/hazalsguler/Team58/assets/173630456/9d4deece-1b51-4417-b6a5-fb4884ad9d63) 
 
-
-SPRINT 3 
+# Sprint 3
 ![image5](https://github.com/user-attachments/assets/2d9b7d99-6ab3-4088-9162-c3295b738d01)
 
 ![image1](https://github.com/user-attachments/assets/dc06872c-e313-4d95-9bb5-1ec411500418)
@@ -54,7 +53,8 @@ SPRINT 3
 
 # ÜRÜN DURUMU:
 Ekran görüntüsü aşağıya eklenmektedir. 
-- sprint 3 
+
+# Sprint 3 
 
 ![product](https://github.com/user-attachments/assets/ee37b33d-089f-4ceb-bdd0-781e24150cc6)
 
@@ -66,10 +66,13 @@ Ekran görüntüsü aşağıya eklenmektedir.
 - Ekip içerisinde iletişim sağlıklıydı.
 - Düzenli olarak toplantılar düzenlendi. 
 - Amaca uygun net ve şeffaf kararlar doğrultusunda adımlar izlendi.
-- Görev eklemek, düzenlemek, silmek, kategorilere ayırmak ve hatırlatıcı eklemek 2. Sprint hedefleri arasındadır.
 - Hedefe ulaşıldı.
 
 # SPRINT BOARD SCREENSHOT
 Sprint 3 
 
-![image](https://github.com/user-attachments/assets/e7be29b8-9e49-4c8d-b067-cd99677c8f30)
+![image](https://github.com/user-attachments/assets/e7be29b8-9e49-4c8d-b067-cd99677c8f30) 
+
+# Sprint 3 
+# Sprint Retrospective 
+- Hedefimize ulaştık 
